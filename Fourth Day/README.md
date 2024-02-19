@@ -12,3 +12,6 @@
 - Full Finetuning：加载预训练模型所有权重参数，加载模型参数优化器
 - LoRA：加载预训练模型所有权重参数，仅加载LoRA小模型的参数优化器
 - QLoRA：使用4bit量化加载模型权重参数，参数优化器可以在GPU和CPU之间进行调度
+
+[哔哩哔哩视频链接](https://www.bilibili.com/video/BV1yK4y1B75J/?spm_id_from=333.788&vd_source=830b7af6ec25a6246b75401107901799)  
+[git链接](https://github.com/InternLM/tutorial/tree/main/xtuner)  
